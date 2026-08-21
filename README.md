@@ -77,4 +77,4 @@ streamlit run app/app.py
 
 Master of Computer Science graduate interested in AI/ML, data analytics, system integration, and production-oriented application development.
 
-[GitHub](https://github.com/Grishmakhatra932) | [LinkedIn](https://www.linkedin.com/in/grishma-khatra)
+[GitHub](https://github.com/Grishmakhatra932) 
